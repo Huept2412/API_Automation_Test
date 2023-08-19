@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FirstTest"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.193">
+  <properties />
+  
+  
+            <testcase name="TC03_ValidateToken" time="0.041" classname="com.api.auto.testcase.TC_API_Login" />
+                <testcase name="TC01_Validate200Ok" time="0.014" classname="com.api.auto.testcase.TC_API_Login" />
+                <testcase name="TC04_ValidateUserType" time="0.022" classname="com.api.auto.testcase.TC_API_Login" />
+                <testcase name="TC05_ValidateAccount" time="0.040" classname="com.api.auto.testcase.TC_API_Login" />
+                <testcase name="TC02_ValidateMessage" time="1.076" classname="com.api.auto.testcase.TC_API_Login" />
+      
+</testsuite>
